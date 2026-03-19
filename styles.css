@@ -1,0 +1,17 @@
+
+body {
+  font-family: sans-serif;
+  background: #f3f4f6;
+}
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
+}
